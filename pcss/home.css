@@ -1,0 +1,13 @@
+html {background: transparent url('../images/fondo_nubes.fw.png') no-repeat center top; background-attachment: fixed;}
+#imGroup_1 { float: left; }
+#imGroup_1 > div { float: left; }
+#imCell_8 { display: block; position: relative; overflow: hidden; }
+#imCellStyle_8 { position: relative; box-sizing: border-box; text-align: center; z-index: 2;}
+#imCellStyleGraphics_8 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
+#imObjectGallery_8 > div { margin: 0 auto; }
+#imContent #imObjectGallery_8 a:link, #imContent #imObjectGallery_8 a:hover, #imContent #imObjectGallery_8 a:visited, #imContent #imObjectGallery_8 a:active { border: none; background-color: transparent; text-decoration: none; }
+#imGroup_1 { width: 1343px; }
+#imCell_8 { width: 1343px; min-height: 600px;  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+#imCellStyle_8 { width: 1343px; min-height: 600px; padding: 0px 0px 0px 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+#imCellStyleGraphics_8 { left: 0px; right: 0px; }
+#imGroup_2 { width: 1343px; height: 15px; }

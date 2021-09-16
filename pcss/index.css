@@ -1,0 +1,19 @@
+html {background: transparent url('../images/fondo_nubes.jpg') no-repeat center top; background-size: cover; background-attachment: fixed;}
+#imContent {margin: 0 auto; }
+#imGroup_1 { float: left; }
+#imGroup_1 > div { float: left; }
+#imGroup_2 > div { float: left; }
+#imCell_1 { display: block; position: relative; overflow: hidden; }
+#imCellStyle_1 { position: relative; box-sizing: border-box; text-align: center; z-index: 2;}
+#imCellStyleGraphics_1 { position: absolute; top: 3px; bottom: 3px; background-color: transparent; }
+#imObjectImage_1 { width: 100%; max-width: 900px; }
+#imContent { width: 960px; }
+#imPgMn { display: none; }
+#imGroup_1 { width: 960px; }
+#imGroup_2 { width: 960px; }
+#imGroup_3 { width: 30px; height: 612px; }
+#imCell_1 { width: 900px; min-height: 606px;  padding-top: 3px; padding-bottom: 3px; padding-left: 0px; padding-right: 0px; }
+#imCellStyle_1 { width: 900px; min-height: 606px; padding: 3px 0px 3px 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+#imCellStyleGraphics_1 { left: 0px; right: 0px; }
+#imGroup_4 { width: 30px; height: 612px; }
+#imGroup_5 { width: 960px; height: 15px; }
